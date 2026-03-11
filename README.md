@@ -10,3 +10,6 @@ Add dataset overview and data quality checks
 Initial checks were performed to understand the dataset structure and quality.
 Duplicate records were checked using `show_id` and missing values were examined in key columns such as `director`, `cast`, and `country`.
 
+## Exploratory Analysis
+
+The dataset is explored using SQL to answer key questions about the Netflix catalog, such as content types, production countries, genres, and content trends.
